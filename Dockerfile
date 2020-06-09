@@ -1,4 +1,4 @@
-FROM gradle:alpine
+FROM gradle
 
 MAINTAINER iamcsk "iamcsk90@gmail.com"
 
